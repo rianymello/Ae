@@ -1,9 +1,8 @@
+
 .homeChild {
-  position: absolute;
+
   top: 0;
-  left: 929px;
-  width: 377px;
-  height: 845px;
+
 }
 .homeInner,
 .homeItem {
@@ -626,6 +625,7 @@
   overflow-x: auto;
   flex-shrink: 0;
   z-index: 0;
+  background-color: black;
 }
 .nossosMembrosChild {
   width: 1437px;
@@ -643,6 +643,7 @@
   height: 14px;
   flex-shrink: 0;
   z-index: 2;
+  background-color: aqua;
 }
 .nossosMembros {
   position: absolute;
@@ -672,11 +673,13 @@
   height: 438px;
   object-fit: cover;
   z-index: 0;
+  background-color: red;
 }
 .eliaEsteves,
 .presidenteDaDireo {
   width: 133px;
   position: absolute;
+  background-color: palevioletred;
   margin: 0 !important;
   top: 328px;
   left: 89px;
@@ -685,6 +688,7 @@
 }
 .eliaEsteves {
   width: 148px;
+  background-color: aqua;
   top: 257px;
   left: 81px;
   font-size: var(--font-size-5xl);
@@ -704,7 +708,10 @@
   left: 0;
   width: 310px;
   height: 438px;
-  object-fit: cover;
+  object-fit:cover;
+  padding: 15px;
+  background-color: gold;
+  box-sizing: border-box;
 }
 .nuncViverraAliquet {
   margin-block-start: 0;

@@ -344,7 +344,7 @@ const Home: NextPage = () => {
                     libero justo laoreet sit amet vitae.
                   </p>
                 </div>
-                <b className={styles.pedroElias}>PEDRO ELIAS</b>
+                <b className={styles.pedroElias}>zé</b>
               </div>
               <div className={styles.pessoa3}>
                 <img
