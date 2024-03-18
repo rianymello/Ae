@@ -1,0 +1,923 @@
+.homeChild {
+  position: absolute;
+  top: 0;
+  left: 929px;
+  width: 377px;
+  height: 845px;
+}
+.homeInner,
+.homeItem {
+  position: absolute;
+  top: 419.2px;
+  left: 707.5px;
+  width: 735px;
+  height: 419.3px;
+}
+.homeInner {
+  top: 170px;
+  left: 1023px;
+  width: 414px;
+  height: 669px;
+}
+.rectangleDiv,
+.vectorIcon {
+  position: absolute;
+  top: 274px;
+  left: 2.5px;
+  width: 238.1px;
+  height: 561px;
+}
+.rectangleDiv {
+  top: 793px;
+  left: 67px;
+  border-radius: 90px;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(58, 52, 86, 0.95),
+    #211e2e
+  );
+  box-shadow: 0 4px 4px rgba(192, 183, 232, 0.01);
+  width: 1272px;
+  height: 167px;
+  display: none;
+}
+.frame,
+.frame1 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame {
+  top: 0;
+  left: 16px;
+  box-shadow: 0 10px 6px rgba(0, 0, 0, 0.25);
+  width: 102px;
+  height: 103px;
+}
+.frame1 {
+  top: 29px;
+  left: 133px;
+  width: 76px;
+  height: 46px;
+}
+.navbarChild {
+  position: absolute;
+  top: 27px;
+  left: 1134px;
+  border-radius: var(--br-21xl);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 154px;
+  height: 48px;
+}
+.contactos,
+.membros,
+.propostas,
+.sobre {
+  position: absolute;
+  top: 44px;
+  left: 414px;
+  cursor: pointer;
+}
+.contactos,
+.membros,
+.propostas {
+  left: 502px;
+}
+.contactos,
+.propostas {
+  left: 622px;
+}
+.contactos {
+  left: 746px;
+}
+.listaC,
+.sujestes {
+  position: absolute;
+  top: 44px;
+  left: 1177px;
+}
+.listaC {
+  top: 32px;
+  left: 0;
+  font-size: 32px;
+  font-family: var(--font-secular-one);
+  display: inline-block;
+  width: 105px;
+  height: 39px;
+}
+.capturaDeTela20240228100Icon {
+  position: absolute;
+  top: 32px;
+  left: 112px;
+  width: 42px;
+  height: 43px;
+  object-fit: cover;
+}
+.navbar {
+  position: absolute;
+  top: 49px;
+  left: 51px;
+  width: 1288px;
+  height: 103px;
+  font-size: var(--font-size-xs);
+}
+.homeChild1,
+.homeChild2 {
+  position: absolute;
+  top: 1268.3px;
+  left: -6.5px;
+  width: 1449px;
+  height: 256.7px;
+}
+.homeChild2 {
+  top: 1553.8px;
+  left: -4.5px;
+  width: 1445px;
+  height: 211.8px;
+}
+.component2,
+.homeChild3 {
+  position: absolute;
+  top: 2187px;
+  left: -3px;
+  width: 1442px;
+  height: 814px;
+}
+.component2 {
+  top: 1650px;
+  left: 311px;
+  width: 69px;
+  height: 21px;
+}
+.listaC1 {
+  position: absolute;
+  top: 324.5px;
+  left: 229px;
+  letter-spacing: 0.13em;
+}
+.socializeComA {
+  position: absolute;
+  top: 9.5px;
+  left: 530px;
+  font-size: var(--font-size-base);
+}
+.pinterestIcon {
+  position: absolute;
+  top: 65.5px;
+  left: 713px;
+  width: 32px;
+  height: 32px;
+}
+.instagramIcon,
+.linkedinIcon,
+.twitterIcon,
+.youtubeIcon {
+  position: absolute;
+  top: 65.5px;
+  left: 659px;
+  width: 32px;
+  height: 32px;
+}
+.linkedinIcon,
+.twitterIcon,
+.youtubeIcon {
+  left: 563px;
+}
+.twitterIcon,
+.youtubeIcon {
+  left: 611px;
+}
+.twitterIcon {
+  left: 515px;
+}
+.footerSectionChild {
+  position: absolute;
+  top: 133.5px;
+  left: 532px;
+  border-radius: var(--br-21xl);
+  background: linear-gradient(90deg, #66c681, #274d31);
+  width: 214px;
+  height: 48px;
+}
+.buildYourWorld {
+  position: absolute;
+  top: 149.5px;
+  left: 568px;
+  font-size: var(--font-size-xs);
+}
+.footerSectionItem {
+  position: absolute;
+  top: 275.5px;
+  left: 0;
+  max-height: 100%;
+  width: 1269px;
+}
+.footerSectionChild1,
+.footerSectionInner {
+  position: absolute;
+  top: 0;
+  left: 419px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 196px;
+}
+.footerSectionChild1 {
+  left: 846px;
+}
+.footerSection {
+  position: absolute;
+  top: 3593px;
+  left: 67px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1269px;
+  height: 341.5px;
+  font-size: 14px;
+}
+.propostasChild {
+  position: absolute;
+  top: 254px;
+  left: 0;
+  width: 1428px;
+  height: 163px;
+}
+.nossas,
+.propostas2 {
+  position: absolute;
+  top: 50px;
+  left: 61px;
+  font-size: var(--font-size-17xl);
+}
+.nossas {
+  top: 0;
+  font-weight: 300;
+}
+.desejaConhecerMais {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.deCadaIniciativa {
+  margin: 0;
+}
+.desejaConhecerMaisContainer {
+  position: absolute;
+  top: 19px;
+  left: 727px;
+  font-size: var(--font-size-base);
+  text-align: right;
+}
+.component3 {
+  position: absolute;
+  top: 44px;
+  left: 399px;
+  width: 209px;
+  height: 95.5px;
+}
+.outlineArrowSmallRight {
+  position: absolute;
+  top: 198px;
+  left: 0;
+  width: 67px;
+  height: 67px;
+}
+.meta1Child,
+.meta1Item {
+  position: absolute;
+  border-radius: 50%;
+}
+.meta1Child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 198px;
+  height: 198px;
+}
+.meta1Item {
+  top: 19px;
+  left: 17px;
+  background: linear-gradient(251.27deg, #66c681, #274d31);
+  width: 159px;
+  height: 159px;
+}
+.b {
+  top: 60px;
+  left: 64px;
+}
+.b,
+.meta1,
+.meta11 {
+  position: absolute;
+}
+.meta11 {
+  top: 216px;
+  left: 63px;
+  font-size: var(--font-size-5xl);
+}
+.meta1 {
+  top: 235px;
+  left: 116px;
+  width: 198px;
+  height: 265px;
+  cursor: pointer;
+}
+.meta2Item,
+.outlineArrowSmallRight1 {
+  position: absolute;
+  top: 204px;
+  left: 0;
+  width: 67px;
+  height: 67px;
+}
+.meta2Item {
+  top: 19px;
+  left: 20px;
+  border-radius: 50%;
+  background: linear-gradient(251.27deg, #66c681, #274d31);
+  width: 159px;
+  height: 159px;
+}
+.b1 {
+  top: 60px;
+  left: 57px;
+}
+.b1,
+.meta2,
+.meta21 {
+  position: absolute;
+}
+.meta21 {
+  top: 222px;
+  left: 63px;
+  font-size: var(--font-size-5xl);
+}
+.meta2 {
+  top: 235px;
+  left: 429px;
+  width: 198px;
+  height: 271px;
+  cursor: pointer;
+}
+.meta3Item,
+.outlineArrowSmallRight2 {
+  position: absolute;
+  top: 203px;
+  left: 14px;
+  width: 67px;
+  height: 67px;
+}
+.meta3Item {
+  top: 19px;
+  left: 18px;
+  border-radius: 50%;
+  background: linear-gradient(251.27deg, #66c681, #274d31);
+  width: 159px;
+  height: 159px;
+}
+.b2,
+.meta3,
+.meta31 {
+  position: absolute;
+  top: 221px;
+  left: 77px;
+}
+.b2,
+.meta3 {
+  top: 60px;
+  left: 57px;
+  font-size: var(--font-size-45xl);
+}
+.meta3 {
+  top: 235px;
+  left: 756px;
+  width: 198px;
+  height: 270px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+}
+.outlineArrowSmallRight3 {
+  position: absolute;
+  top: 203px;
+  left: 11px;
+  width: 67px;
+  height: 67px;
+}
+.b3 {
+  top: 60px;
+  left: 56px;
+}
+.b3,
+.meta4,
+.meta41 {
+  position: absolute;
+}
+.meta41 {
+  top: 221px;
+  left: 74px;
+  font-size: var(--font-size-5xl);
+}
+.meta4 {
+  top: 235px;
+  left: 1077px;
+  width: 198px;
+  height: 270px;
+  cursor: pointer;
+}
+.propostas1 {
+  position: absolute;
+  top: 2826px;
+  left: 11px;
+  width: 1428px;
+  height: 506px;
+  font-size: var(--font-size-45xl);
+}
+.dsgIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1278px;
+  height: 303px;
+  object-fit: cover;
+}
+.cartinhaIcon {
+  position: absolute;
+  top: 253px;
+  left: 586px;
+  width: 100px;
+  height: 100px;
+}
+.queremosTeOuvir {
+  position: absolute;
+  top: 55px;
+  left: 95px;
+  font-weight: 300;
+}
+.texto {
+  position: absolute;
+  top: 108px;
+  left: 343px;
+  width: 597px;
+  height: 99px;
+}
+.capa,
+.entreEmContato,
+.homeChild4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1278px;
+  height: 353px;
+}
+.entreEmContato,
+.homeChild4 {
+  top: 2371px;
+  left: 81px;
+}
+.homeChild4 {
+  top: 4886px;
+  left: 4.5px;
+  width: 1435px;
+  height: 363px;
+}
+.bemVindoAssociaoContainer,
+.text {
+  position: absolute;
+  display: inline-block;
+}
+.text {
+  top: 0;
+  left: 466px;
+  font-weight: 300;
+  height: 40.2px;
+}
+.bemVindoAssociaoContainer {
+  top: 123.4px;
+  left: 2px;
+  font-size: var(--font-size-base);
+  width: 670px;
+  height: 208.5px;
+}
+.ns {
+  top: 44.8px;
+  left: 0;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.95);
+  display: inline-block;
+  width: 82px;
+  height: 40.2px;
+}
+.ns,
+.sobre1,
+.texto1 {
+  position: absolute;
+}
+.sobre1 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 132px;
+  height: 40.2px;
+}
+.texto1 {
+  top: 45.7px;
+  left: 641px;
+  width: 672px;
+  height: 331.9px;
+}
+.bodyTop,
+.fotoPessoas,
+.sobreNos {
+  position: absolute;
+  left: 0;
+  height: 509.3px;
+}
+.fotoPessoas {
+  top: 0;
+  width: 524px;
+  object-fit: contain;
+}
+.bodyTop,
+.sobreNos {
+  top: 174.7px;
+  width: 1313px;
+}
+.sobreNos {
+  top: 761px;
+  left: 61px;
+  height: 684px;
+}
+.contem {
+  background: linear-gradient(
+    91.57deg,
+    #6dd58a,
+    #74e192 43.6%,
+    #347d46 64.59%,
+    #376d46 84.1%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.conoscoENs {
+  font-size: var(--font-size-21xl);
+}
+.contemConoscoEContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.exploreOsBastidoresContainer {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  font-size: var(--font-size-base);
+}
+.comVocs {
+  font-size: var(--font-size-27xl);
+  background: linear-gradient(269deg, #346e43, #66c681, #66c681);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.contamosComVocsContainer {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  font-size: var(--font-size-21xl);
+}
+.comecinho {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  width: 676px;
+  height: 243px;
+}
+.michelangeloChild {
+  position: absolute;
+  top: 17px;
+  left: 11px;
+  border-radius: var(--br-81xl) var(--br-81xl) var(--br-81xl) 240px;
+  background-color: rgba(0, 0, 0, 0.13);
+  width: 524px;
+  height: 455px;
+}
+.pexelsMichelangeloBuonarrotiIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 587px;
+  height: 535px;
+  object-fit: cover;
+}
+.header,
+.michelangelo {
+  position: absolute;
+  top: 0;
+  left: 743px;
+  width: 587px;
+  height: 535px;
+}
+.header {
+  top: 274px;
+  left: 77px;
+  width: 1330px;
+  font-size: var(--font-size-27xl);
+}
+.membrosGrupo {
+  width: 1449px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  height: 704px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.nossosMembrosChild {
+  width: 1437px;
+  position: relative;
+  height: 48.3px;
+  z-index: 1;
+}
+.membros1 {
+  width: 201px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 291.15px);
+  left: calc(50% - 77.5px);
+  display: inline-block;
+  height: 14px;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.nossosMembros {
+  position: absolute;
+  top: 1554px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1437px;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 62px;
+}
+.conheaNossos {
+  position: absolute;
+  top: calc(50% - 394.5px);
+  left: calc(50% - 155px);
+  font-weight: 300;
+  display: inline-block;
+  width: 354px;
+  height: 44px;
+}
+.pessoa1Dsg {
+  width: 310px;
+  position: relative;
+  height: 438px;
+  object-fit: cover;
+  z-index: 0;
+}
+.eliaEsteves,
+.presidenteDaDireo {
+  width: 133px;
+  position: absolute;
+  margin: 0 !important;
+  top: 328px;
+  left: 89px;
+  display: inline-block;
+  z-index: 1;
+}
+.eliaEsteves {
+  width: 148px;
+  top: 257px;
+  left: 81px;
+  font-size: var(--font-size-5xl);
+  z-index: 2;
+}
+.pessoa1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.pessoa2Dsg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 310px;
+  height: 438px;
+  object-fit: cover;
+}
+.nuncViverraAliquet {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+  white-space: pre-wrap;
+}
+.pedroElias,
+.vitaeSapienPelContainer {
+  position: absolute;
+  top: 331px;
+  left: 25px;
+}
+.pedroElias {
+  top: 263px;
+  left: 80px;
+  font-size: var(--font-size-5xl);
+}
+.pessoa2 {
+  width: 310px;
+  position: relative;
+  height: 438px;
+}
+.diogoAlves {
+  position: absolute;
+  top: 263px;
+  left: 85px;
+}
+.vitaeSapienPellentesqueContainer {
+  position: absolute;
+  top: 331px;
+  left: 25px;
+  font-size: var(--font-size-xs);
+}
+.pessoa3 {
+  width: 310px;
+  position: relative;
+  height: 438px;
+  font-size: var(--font-size-5xl);
+}
+.tesoureiro,
+.tiagoJos {
+  position: absolute;
+  top: 340px;
+  left: 123px;
+}
+.tiagoJos {
+  top: 263px;
+  left: 22px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  text-align: center;
+  width: 266px;
+}
+.tomsRibeiro,
+.vogal {
+  position: absolute;
+  top: 340px;
+  left: 133px;
+}
+.tomsRibeiro {
+  top: 263px;
+  left: 15px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  text-align: center;
+  width: 266px;
+}
+.brunoLima,
+.vogal1 {
+  position: absolute;
+  top: 343px;
+  left: 146px;
+}
+.brunoLima {
+  top: 259px;
+  left: 79px;
+  font-size: var(--font-size-5xl);
+}
+.vogal2,
+.vogal3,
+.vogal4 {
+  position: absolute;
+  top: 345px;
+  left: 133px;
+}
+.vogal3,
+.vogal4 {
+  top: 348px;
+  left: 132px;
+}
+.vogal4 {
+  left: 130px;
+}
+.ngela,
+.presidenteDaAssembleia {
+  position: absolute;
+  top: 350px;
+  left: 61px;
+}
+.ngela {
+  top: 263px;
+  left: 110px;
+  font-size: var(--font-size-5xl);
+}
+.camilaGigante,
+.vicePresidenteDaAssembleia {
+  width: 220px;
+  position: absolute;
+  margin: 0 !important;
+  top: 350px;
+  left: 46px;
+  display: inline-block;
+  z-index: 1;
+}
+.camilaGigante {
+  width: 200px;
+  top: 263px;
+  left: 55px;
+  font-size: var(--font-size-5xl);
+  z-index: 2;
+}
+.pessoa10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.miguelGonalves,
+.secretarioDaAssembleia {
+  position: absolute;
+  top: 350px;
+  left: 72px;
+}
+.miguelGonalves {
+  top: 265px;
+  left: 46px;
+  font-size: var(--font-size-5xl);
+}
+.anaRita,
+.presidenteDoConcelho {
+  position: absolute;
+  top: 349px;
+  left: 65px;
+}
+.anaRita {
+  top: 263px;
+  left: 102px;
+  font-size: var(--font-size-5xl);
+}
+.secretrioDoConcelho {
+  position: absolute;
+  top: 349px;
+  left: 80px;
+}
+.veraDamio,
+.vicePresidenteDaDireo {
+  position: absolute;
+  top: 328px;
+  left: 84px;
+}
+.veraDamio {
+  top: 263px;
+  left: 75px;
+  font-size: var(--font-size-5xl);
+}
+.irisFigueiredo {
+  position: absolute;
+  top: 261px;
+  left: 65px;
+}
+.secretriaDaDireo {
+  position: absolute;
+  top: 340px;
+  left: 91px;
+  font-size: var(--font-size-xs);
+}
+.membros2,
+.membrosCarrosel {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.membros2 {
+  width: 4535px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.membrosCarrosel {
+  width: calc(100% + 3883px);
+  right: -3883px;
+  height: 440px;
+}
+.caroselGrupo {
+  position: absolute;
+  top: 1766px;
+  left: 67px;
+  width: 1288px;
+  height: 440px;
+  overflow-x: auto;
+  font-size: var(--font-size-xs);
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: #122f1a;
+  height: 4019px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
