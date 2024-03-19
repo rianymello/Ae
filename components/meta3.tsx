@@ -1,13 +1,21 @@
 import type { NextPage } from "next";
 import styles from "./meta3.module.css";
 
-const Meta3: NextPage = () => {
+export type Meta3Type = {
+  onClose?: () => void;
+};
+
+const Meta3: NextPage<Meta3Type> = ({ onClose }) => {
   return (
-    <div className={styles.meta2}>
-      <div className={styles.modal1}>
+    <div className={styles.meta4}>
+      <section className={styles.modal1}>
         <div className={styles.content}>
-          <div className={styles.icon}>
-            <div className={styles.mainIcon}>2</div>
+          <div className={styles.iconWrapper}>
+            <div className={styles.icon}>
+              <div className={styles.mainIcon}>
+                <p className={styles.p}>4</p>
+              </div>
+            </div>
           </div>
           <div className={styles.content1}>
             <b className={styles.title}>Titulo</b>
@@ -30,7 +38,7 @@ const Meta3: NextPage = () => {
             </div>
           </div>
         </div>
-      </div>
+      </section>
     </div>
   );
 };
