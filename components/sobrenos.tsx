@@ -1,21 +1,10 @@
 import type { NextPage } from "next";
-import LogoFrame from "../components/logo-frame";
-import FrameComponent1 from "../components/frame-component";
-import Group from "../components/group";
-import ContactFrame from "../components/contact-frame";
-import NestedFrames from "../components/nested-frames";
-import CopyrightNotice from "../components/copyright-notice";
-import ThreeVectors from "../components/three-vectors";
-import styles from "./home.module.css";
+import styles from "./sobrenos.module.css";
 
-const Home: NextPage = () => {
+const SobreNos: NextPage = () => {
   return (
-    <div className={styles.home}>
-      <div className={styles.frame} />
-      <div className={styles.homeChild} />
-      <LogoFrame />
-      <FrameComponent1 />
-      <div className={styles.vector}>
+    <>
+  <div className={styles.vector}>
         <div className={styles.sobreParent}>
           <h1 className={styles.sobre}>SOBRE</h1>
           <h1 className={styles.ns}>NÓS</h1>
@@ -65,17 +54,8 @@ const Home: NextPage = () => {
           </div>
         </div>
       </section>
-      <img className={styles.textIcon} alt="" src="/text.svg" />
-      <Group />
-      <img className={styles.headerGroupIcon} alt="" src="/header-group.svg" />
-      <img className={styles.vectorFrameIcon} alt="" src="/vector-frame.svg" />
-      <ContactFrame />
-      <div className={styles.component3} />
-      <NestedFrames />
-      <CopyrightNotice />
-      <ThreeVectors />
-    </div>
+    </>
   );
 };
 
-export default Home;
+export default SobreNos;

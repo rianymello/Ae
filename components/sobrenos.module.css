@@ -1,0 +1,109 @@
+.ns,
+.sobre {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.ns {
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.95);
+}
+.sobreParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.313rem;
+}
+.alimentaNossaChama,
+.ambioAquiCada,
+.bemVindoAssociao,
+.blankLine,
+.excelnciaAcadmicaE,
+.nicaECada,
+.queUmaLista,
+.umaConquistaCompartilhada {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.contemconosco {
+  margin: 0;
+}
+.bemVindoAssociaoContainer {
+  height: 14.25rem;
+  width: 41.875rem;
+  position: absolute;
+  margin: 0 !important;
+  right: -32.5rem;
+  bottom: -10.437rem;
+  font-size: 1rem;
+  display: inline-block;
+  z-index: 1;
+}
+.vector {
+  width: 16.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 1.25rem 6.438rem;
+  box-sizing: border-box;
+  position: relative;
+  flex-shrink: 0;
+}
+.maskGroupIcon,
+.rectangleIcon {
+  position: absolute;
+  margin: 0 !important;
+}
+.maskGroupIcon {
+  width: 32.75rem;
+  height: 34.813rem;
+  top: 55.063rem;
+  left: 3.813rem;
+  object-fit: contain;
+  z-index: 1;
+}
+.rectangleIcon {
+  height: 100%;
+  width: 100%;
+  top: 0.019rem;
+  right: 0.031rem;
+  bottom: 0;
+  left: -0.031rem;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pathChild {
+  height: 3rem;
+  width: 13.375rem;
+  position: relative;
+  border-radius: 40px;
+  background: linear-gradient(90deg, #274d31, #66c681);
+  display: none;
+}
+.letsGetIn {
+  position: relative;
+  font-size: 0.75rem;
+  font-family: Montserrat;
+  color: #fff;
+  text-align: left;
+  z-index: 2;
+}
+.path {
+  cursor: pointer;
+  border: 0;
+  padding: 1.063rem 2.938rem 1rem 2.438rem;
+  background-color: transparent;
+  border-radius: 40px;
+  background: linear-gradient(90deg, #274d31, #66c681);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 1;
+}
